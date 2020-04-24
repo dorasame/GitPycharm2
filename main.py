@@ -4,4 +4,7 @@
 print("Hello World")
 
 #adding new item in Hotfix
-pirnt("Hello World 2")
+print("Hello World 2")
+
+#adding new item in Hotfix
+print("hello World 4")
